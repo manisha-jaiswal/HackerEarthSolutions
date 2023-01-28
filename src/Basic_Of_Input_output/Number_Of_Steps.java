@@ -2,7 +2,7 @@ package Basic_Of_Input_output;
 
 import java.util.Scanner;
 
-public class NumberOfSteps {
+public class Number_Of_Steps {
     public static int countSteps(int[] a, int[] b, int size){
         int min=a[0];
         int count = 0;

@@ -3,7 +3,7 @@ package Basic_Of_Input_output;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class MinimizeCost {
+public class Minimize_Cost {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
 

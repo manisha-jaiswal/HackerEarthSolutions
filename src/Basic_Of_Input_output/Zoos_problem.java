@@ -2,7 +2,7 @@ package Basic_Of_Input_output;
 
 import java.util.Scanner;
 
-public class Zoos {
+public class Zoos_problem {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();

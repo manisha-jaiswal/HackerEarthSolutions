@@ -2,7 +2,7 @@ package Basic_Of_Input_output;
 
 import java.util.Scanner;
 
-public class FindProducts {
+public class Find_Products {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int N = scan.nextInt();
